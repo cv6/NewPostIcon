@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="style_prop.cv6PiNewPostColor" version_id="1000152" version_string="1.0.1 Release Candidate 2"><![CDATA[New post indicator color]]></phrase>
+  <phrase title="style_prop.cv6PiNewPostIcon" version_id="1000152" version_string="1.0.1 Release Candidate 2"><![CDATA[New post indicator]]></phrase>
+  <phrase title="style_prop_desc.cv6PiNewPostColor" version_id="1000152" version_string="1.0.1 Release Candidate 2"><![CDATA[Choose a color which will be applied to the new post indicator.]]></phrase>
+  <phrase title="style_prop_desc.cv6PiNewPostIcon" version_id="1000152" version_string="1.0.1 Release Candidate 2"><![CDATA[Enter the Font Awesome icon name. e.g. fa-comments]]></phrase>
+</phrases>

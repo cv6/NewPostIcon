@@ -1,0 +1,26 @@
+{
+    "style_prop.cv6PiNewPostColor.txt": {
+        "global_cache": false,
+        "version_id": 1000152,
+        "version_string": "1.0.1 Release Candidate 2",
+        "hash": "8ba3bcebae69e9e765ca2637e0152d43"
+    },
+    "style_prop.cv6PiNewPostIcon.txt": {
+        "global_cache": false,
+        "version_id": 1000152,
+        "version_string": "1.0.1 Release Candidate 2",
+        "hash": "d77f65514e209a5129f8d33cc57d5854"
+    },
+    "style_prop_desc.cv6PiNewPostColor.txt": {
+        "global_cache": false,
+        "version_id": 1000152,
+        "version_string": "1.0.1 Release Candidate 2",
+        "hash": "678eac5fee9f02f87cce2007071c375e"
+    },
+    "style_prop_desc.cv6PiNewPostIcon.txt": {
+        "global_cache": false,
+        "version_id": 1000152,
+        "version_string": "1.0.1 Release Candidate 2",
+        "hash": "e1853453aec2490984f991a09a23e946"
+    }
+}

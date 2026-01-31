@@ -1,0 +1,9 @@
+{
+    "template": "thread_list_macros",
+    "description": "",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "<xf:if is=\"$thread.prefix_id\">",
+    "replace": "\t\t\t\t<xf:if is=\"{{ $thread.isUnread() AND property('cv6PiNewPostIcon') }}\">\n\t\t\t\t\t<xf:fa icon=\"{{ property('cv6PiNewPostIcon') }}\" class=\"cv6--newpost\" title=\"{{ phrase('new_posts')}}\" data-xf-init=\"tooltip\" />\n\t\t\t\t</xf:if>\n$0"
+}

@@ -1,0 +1,14 @@
+{
+    "group_name": "message",
+    "title": "New post indicator",
+    "description": "Enter the Font Awesome icon name. e.g. fa-comments",
+    "property_type": "value",
+    "css_components": [],
+    "value_type": "template",
+    "value_parameters": "template=cv6_style_template_icon\ntype=scalar\nstyle=1\nrotation=1",
+    "has_variations": false,
+    "depends_on": "",
+    "value_group": "cv6NewPostIcon",
+    "property_value": "fa-concierge-bell",
+    "display_order": 710
+}

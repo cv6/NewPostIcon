@@ -1,0 +1,16 @@
+{
+    "group_name": "message",
+    "title": "New post indicator color",
+    "description": "Choose a color which will be applied to the new post indicator.",
+    "property_type": "value",
+    "css_components": [],
+    "value_type": "color",
+    "value_parameters": "",
+    "has_variations": true,
+    "depends_on": "",
+    "value_group": "cv6NewPostIcon",
+    "property_value": {
+        "default": "@xf-warningColor"
+    },
+    "display_order": 720
+}

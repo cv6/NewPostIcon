@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="admin" title="cv6IconSetting" version_id="1000470" version_string="1.0.4"><![CDATA[<xf:macro id="cv6_fa_icon::cv6_inputIcon" 
+    arg-target="cv6-property-nr-{$property.property_id}" 
+    arg-rowclass="{$rowClass}"
+    arg-name="{$formBaseKey}"
+    arg-label="{$titleHtml}" 
+    arg-hint="{$hintHtml}"
+    arg-explain="{$property.description}" 
+    arg-value="{$property.property_value}"
+    arg-stylechooser="{{ [ $valueOptions.style == 1 ? 'style' : '', $valueOptions.rotation == 1 ? 'rotation' : '' ,  $valueOptions.animation == 1 ? 'animation' : ''] }}"
+/>]]></template>
+</templates>

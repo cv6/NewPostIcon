@@ -1,0 +1,26 @@
+{
+    "legacy_addon_id": "",
+    "title": "[DD] Icon for new Posts",
+    "description": "adds an icon in front of threads with new posts",
+    "version_id": 1010170,
+    "version_string": "1.1.1",
+    "dev": "Hoffi",
+    "dev_url": "https://forum.dice-dragons.de/mitglieder/hoffi.1/",
+    "faq_url": "https://forum.dice-dragons.de/downloads/new-post-icon.150/",
+    "support_url": "https://forum.dice-dragons.de/forum/new-post-icon/",
+    "extra_urls": {
+        "Hoffi@XenForo": "https://xenforo.com/community/members/hoffi.214/",
+        "Send a gift": "https://www.amazon.de/hz/wishlist/ls/2XPAE7B75LB9T?ref_=wl_share"
+    },
+    "require": {
+        "XF": [
+            2030010,
+            "XenForo 2.3.0+"
+        ],
+        "cv6/Core": [
+            1020070,
+            "[DD] Core AddOn 1.2.0"
+        ]
+    },
+    "icon": "icon-new.png"
+}
