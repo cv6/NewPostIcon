@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<templates>
-  <template type="admin" title="cv6IconSetting" version_id="1010170" version_string="1.1.1"><![CDATA[<xf:macro id="cv6_fa_icon::cv6_inputIcon" 
+<xf:macro id="cv6_fa_icon::cv6_inputIcon" 
     arg-target="cv6-property-nr-{$property.property_id}" 
     arg-rowclass="{$rowClass}"
     arg-name="{$formBaseKey}"
@@ -10,5 +8,4 @@
     arg-value="{$property.property_value}"
     arg-stylechooser="{{ [ $valueOptions.style == 1 ? 'style' : '', $valueOptions.rotation == 1 ? 'rotation' : '' ,  $valueOptions.animation == 1 ? 'animation' : ''] }}"
     arg-autocomplete="{{ true }}"
-/>]]></template>
-</templates>
+/>

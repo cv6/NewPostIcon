@@ -6,10 +6,12 @@
 }</value>
   </style_property>
   <style_property property_name="cv6PiNewPostIcon" group_name="message" title="New post indicator" description="Enter the Font Awesome icon name. e.g. fa-comments" property_type="value" value_type="template" has_variations="0" value_group="cv6NewPostIcon" display_order="710">
-    <value_parameters>template=cv6_style_template_icon
+    <value_parameters>template=cv6_style_var_template_icon
 type=scalar
+icontype=style
 style=1
-rotation=1</value_parameters>
+rotation=1
+autocomplete=1</value_parameters>
     <value>"fa-concierge-bell"</value>
   </style_property>
 </style_properties>

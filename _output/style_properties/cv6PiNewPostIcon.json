@@ -5,7 +5,7 @@
     "property_type": "value",
     "css_components": [],
     "value_type": "template",
-    "value_parameters": "template=cv6_style_template_icon\ntype=scalar\nstyle=1\nrotation=1",
+    "value_parameters": "template=cv6_style_var_template_icon\ntype=scalar\nicontype=style\nstyle=1\nrotation=1\nautocomplete=1",
     "has_variations": false,
     "depends_on": "",
     "value_group": "cv6NewPostIcon",
